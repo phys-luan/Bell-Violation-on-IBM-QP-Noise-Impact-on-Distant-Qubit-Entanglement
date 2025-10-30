@@ -29,7 +29,7 @@ The main goal is to investigate how **noise** affects **entanglement** between *
   The reconstruction of the two-qubit **density matrix (ρ)** through measurement statistics, enabling quantitative evaluation of:
   - Concurrence  
   - Fidelity  
-  - Negativity  
+  - Trace distance 
   - Bell-violation metrics (S-value)
 
 ---
