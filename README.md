@@ -1,5 +1,5 @@
- Bell Inequality Violation on IBM Quantum Processors  
-### *Noise Impact on Distant Qubit Entanglement*
+  
+### * Bell Inequality Violation on IBM Quantum Processors: Noise Impact on Distant Qubit Entanglement*
 
 **Author:** Luan Almeida Meira  
 **Institution:** Universidade Estadual de Santa Cruz (UESC), Brazil  
