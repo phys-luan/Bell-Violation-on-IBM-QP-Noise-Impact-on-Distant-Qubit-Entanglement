@@ -1,7 +1,7 @@
   
 ### *Bell Inequality Violation on IBM Quantum Processors: Noise Impact on Distant Qubit Entanglement*
 
-**Author:** Luan Almeida Meira  
+**Author:** Luan Almeida Meira, Pedro Silva Correia
 **Institution:** Universidade Estadual de Santa Cruz (UESC), Brazil  
 **Department:** DCEX - NEmes  
 
